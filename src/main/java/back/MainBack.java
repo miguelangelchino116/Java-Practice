@@ -24,6 +24,7 @@ public class MainBack {
             System.out.println(row.getIdentifiers());
             System.out.println(row.getSellers());
             System.out.println("--------------------");
+            System.out.println("--------------------");
         }
 //        OutputResponse outputfile = new OutputResponse();
 //
